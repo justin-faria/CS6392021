@@ -1,0 +1,20 @@
+Communication Issues: No problems 
+Code available in GitHub: Yes
+Apk at root: Yes
+Screenshots at root: Yes
+App Crash: No
+Min Sdk: 16
+Target SDK: 30
+App tested: On phone
+SMS Correct Behavior: Yes
+Phone Correct Behavior: Yes
+Web Correct Behavior: Yes
+Map Correct Behavior: Yes
+Share Correct Behavior: Yes
+New Activity Correct Behavior: Yes
+Help Correct Behavior: Yes
+Settings Correct Behavior: Yes
+Image Correct: Yes
+General Comments about App: App worked as directed and I can tell it was personalized!
+
+
