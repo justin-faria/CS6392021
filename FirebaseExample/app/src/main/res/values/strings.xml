@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseExample</string>
+    <string name="Heading">Employee Roster</string>
+    <string name="Subheading">Enter Employee Information Below</string>
+    <string name="fn">First Name:</string>
+    <string name="ln">Last Name:</string>
+    <string name="Done">Done</string>
+
+</resources>
